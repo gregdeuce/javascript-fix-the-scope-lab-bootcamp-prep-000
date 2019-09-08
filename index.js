@@ -17,6 +17,7 @@ function add2(n) {
   // Feel free to move things around!
   
 }
+add2(711)
 
 var funkyFunction = function() {
   return function() {
